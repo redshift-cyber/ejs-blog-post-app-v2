@@ -10,3 +10,19 @@ Type this command in your terminal. (Make sure you have git installed)
 ```
 git clone https://github.com/iron-coder12/ejs-blog-post-app-v2.git
 ```
+once you have cloned this repo you need to type: `
+npm install
+`
+
+make sure you have nodejs installed in your system or this will not work
+
+If your package manager is yarn then it will be : `
+yarn install
+`
+
+once installed you will see the node modules folder appear.
+
+then type `node app.js` to start the app.
+It will tell ` server started on port 300` then you can open your browser and go to localhost:3000 and enjoy the blog post app working
+
+Pro tip! you can go `localhost:3000/compose` in your browser and make your own blog that will be displayed in the page
