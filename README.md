@@ -26,3 +26,7 @@ then type `node app.js` to start the app.
 It will tell ` server started on port 300` then you can open your browser and go to localhost:3000 and enjoy the blog post app working
 
 Pro tip! you can go `localhost:3000/compose` in your browser and make your own blog that will be displayed in the page
+
+# Preview
+
+<img src="https://github.com/iron-coder12/ejs-blog-post-app-v2/blob/master/preview/Capture.PNG?raw=true">
