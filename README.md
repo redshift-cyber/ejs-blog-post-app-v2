@@ -30,3 +30,5 @@ Pro tip! you can go `localhost:3000/compose` in your browser and make your own b
 # Preview
 
 <img src="https://github.com/iron-coder12/ejs-blog-post-app-v2/blob/master/preview/Capture.PNG?raw=true">
+<br>
+<img src="https://github.com/iron-coder12/ejs-blog-post-app-v2/blob/master/preview/Captureaa.PNG?raw=true">
